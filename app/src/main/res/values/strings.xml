@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Base Converter Quiz Game</string>
+    <string-array name="qTypeArray">
+        <item>Hex to Decimal</item>
+        <item>Decimal to Hex Signed</item>
+        <item>Decimal to Hex Unsigned</item>
+    </string-array>
+    <string-array name="hexVals">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+
+    </string-array>
+
+</resources>
